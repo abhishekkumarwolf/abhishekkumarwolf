@@ -1,4 +1,4 @@
-# Hey, I'm Shivam 👋
+# Hey, I'm Abhishek 👋
 
 <div align="center">
 
@@ -17,8 +17,8 @@ Passionate about building scalable applications, exploring AI, and learning cutt
 - ⚡ Experienced in **Django** and **FastAPI**
 - 🤖 Currently learning **Machine Learning** and AI systems
 - 🔐 Interested in **Cybersecurity**, backend architecture, and scalable systems
-- 🌱 I enjoy learning new technologies and building real-world projects
-- 🛠️ Love turning ideas into products through code
+
+
 
 ---
 
@@ -106,9 +106,9 @@ Passionate about building scalable applications, exploring AI, and learning cutt
 
 ## 🌐 Connect With Me
 
-- GitHub: https://github.com/YOUR_USERNAME
-- LinkedIn: Add your LinkedIn here
-- Portfolio: Add your portfolio here
+- GitHub: https://github.com/abhishekkumarwolf
+- LinkedIn: https://www.linkedin.com/in/abhishek-kumar-613079238/
+- Portfolio:
 
 ---
 
